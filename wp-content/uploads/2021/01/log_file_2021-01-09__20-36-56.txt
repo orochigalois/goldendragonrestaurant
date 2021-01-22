@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: Home Coffee were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://goldendragonrestaurant.local
+Data file = C:\Users\fudan\Local Sites\goldendragonrestaurant\app\public/wp-content/themes/resca/inc/admin/data/demodata.xml
+Widget file = C:\Users\fudan\Local Sites\goldendragonrestaurant\app\public/wp-content/themes/resca/inc/admin/data/widgets.wie
+Customizer file = C:\Users\fudan\Local Sites\goldendragonrestaurant\app\public/wp-content/themes/resca/inc/admin/data/setting.json
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Text - About blog - Imported
+Categories - Categories - Imported
+Text - instagram - Imported
+Recent Posts - Recent Posts - Imported
+Text - Pinterest - Imported
+Text - No Title - Imported
+Text - Get our newsletter - Imported
+
+Menu Right : 
+
+Thim: Social Links - No Title - Imported
+
+Footer : 
+
+Thim: Single Images - No Title - Imported
+Thim: Icon Box - No Title - Imported
+Thim: Social Links - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+
